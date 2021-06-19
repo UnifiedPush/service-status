@@ -4,19 +4,19 @@
     "url": "https://unifiedpush.org",
     "icon": "https://favicons.githubusercontent.com/unifiedpush.org",
     "slug": "docs",
-    "status": "down",
-    "uptime": "98.81%",
-    "uptimeDay": "98.81%",
-    "uptimeWeek": "98.81%",
-    "uptimeMonth": "98.81%",
-    "uptimeYear": "98.81%",
-    "time": 611,
-    "timeDay": 611,
-    "timeWeek": 611,
-    "timeMonth": 611,
-    "timeYear": 611,
+    "status": "up",
+    "uptime": "98.68%",
+    "uptimeDay": "98.68%",
+    "uptimeWeek": "98.68%",
+    "uptimeMonth": "98.68%",
+    "uptimeYear": "98.68%",
+    "time": 529,
+    "timeDay": 529,
+    "timeWeek": 529,
+    "timeMonth": 529,
+    "timeYear": 529,
     "dailyMinutesDown": {
-      "2021-06-19": 9
+      "2021-06-19": 10
     }
   },
   {
