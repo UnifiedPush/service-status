@@ -5,11 +5,11 @@
     "icon": "https://favicons.githubusercontent.com/unifiedpush.org",
     "slug": "docs",
     "status": "up",
-    "uptime": "99.30%",
+    "uptime": "99.32%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
-    "uptimeMonth": "99.30%",
-    "uptimeYear": "99.30%",
+    "uptimeMonth": "99.32%",
+    "uptimeYear": "99.32%",
     "time": 841,
     "timeDay": 214,
     "timeWeek": 261,
@@ -27,9 +27,9 @@
     "url": "https://gotify1.unifiedpush.org/health",
     "icon": "https://favicons.githubusercontent.com/gotify1.unifiedpush.org",
     "slug": "gotify1",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
@@ -38,6 +38,8 @@
     "timeWeek": 297,
     "timeMonth": 345,
     "timeYear": 345,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2021-07-12": 0
+    }
   }
 ]
