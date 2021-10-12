@@ -1,3 +1,7 @@
+# Deprecated
+
+This has been superseded by status monitoring in the Matrix room [#unifiedpush-status:malhotra.cc](https://matrix.to/#/#unifiedpush-status:malhotra.cc).
+
 # [📈 Live Status](https://UnifiedPush.github.io/service-status): <!--live status--> **🟩 All systems operational**
 
 This repository contains the open-source uptime monitor and status page for [UnifiedPush](https://unifiedpush.org), powered by [Upptime](https://github.com/upptime/upptime).
